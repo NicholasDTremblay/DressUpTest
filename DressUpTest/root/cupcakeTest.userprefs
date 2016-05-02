@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\snapBottomRight.cs">
+    <Files>
+      <File FileName="Assets\maskController.cs" Line="88" Column="62" />
+      <File FileName="Assets\snapBottomLeft.cs" Line="49" Column="60" />
+      <File FileName="Assets\snapBottomRight.cs" Line="30" Column="65" />
+      <File FileName="Assets\cameraScaler.cs" Line="9" Column="100" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
